@@ -1,0 +1,8 @@
+servers:
+  nl:
+    host: whisper.local
+    port: 10301
+
+  en:
+    host: whisper.local
+    port: 10300
